@@ -44,7 +44,7 @@
   ## <a id="Usage">Usage</a>
   The user can **View**, **Add**, **Update** and **Delete** data from the database through a server application like Insomnia through **GET**, **POST**, **PUT** and **DELETE**, respectively.
 
-  ADD IMAGES/GIF
+  ![Insomnia Presentation](Assets/ecomm.gif)
 
   ## Contributing
   Fork repo and contact me to be added to the project.
